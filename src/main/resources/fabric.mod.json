@@ -3,7 +3,7 @@
 	"id": "more-vanilla-fuel",
 	"version": "${version}",
 	"name": "More Vanilla Fuel",
-	"description": "Adds the ability to smelt items that are in the game and can't be smelted in vanilla!",
+	"description": "Adds the ability to smelt items that are in the base game and can't be smelted in vanilla!",
 	"authors": [
 		"Krepek"
 	],
